@@ -6,7 +6,7 @@ CommitWrite reads your staged git diff and generates
 a clean conventional commit message using Qwen via Groq.
 Free, fast, and runs entirely from your terminal.
 
-![demo](CommitWrite/commitwrite/demo.gif)
+![demo](demo.gif)
 
 ## How It Works
 
