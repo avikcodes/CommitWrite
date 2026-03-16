@@ -1,5 +1,4 @@
-# CommitWrite
-Reads your staged git diff → writes your commit message. Powered by Qwen via Groq.
+
 # CommitWrite
 
 > Stop writing commit messages. Let AI do it.
