@@ -1,4 +1,3 @@
-
 # CommitWrite
 
 > Stop writing commit messages. Let AI do it.
@@ -31,18 +30,17 @@ commitwrite
 
 ## Example Output
 
-feat(auth): add JWT token refresh logic on expiry
+feat: add initial implementation of commit message generator using Groq API
 
 ## Why
 
-Writing commit messages is friction.
-This removes it.
+Writing commit messages is friction. This removes it.
 
 ## Tech
 
 - Python
 - Groq API
-- Qwen2.5-7B
+- llama-3.1-8b-instant
 
 ## License
 
